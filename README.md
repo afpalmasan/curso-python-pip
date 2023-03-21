@@ -1,6 +1,6 @@
 # curso-python-pip
 
-# game Project
+# Game Project
 
 Para correr el juego favor seguir las siguientes instrucciones en la terminal 
 
