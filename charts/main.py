@@ -1,7 +1,7 @@
-import matplotlib.pyplot as pyplot
+import charts
 
-def generate_pie_chart():
-    labels = ["A","B","C"]
-    values = [200, 34, 120]
+def run():
+    charts.generate_pie_chart()
 
-    
+if __name__ == '__main__':
+    run()
