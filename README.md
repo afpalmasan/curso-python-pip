@@ -16,5 +16,6 @@ para acceder al proyecto con request http
 ```sh
 cd web-server
 conda env create --file environment.yml
+conda install -c conda-forge requests
 python3 main.py
 ```
